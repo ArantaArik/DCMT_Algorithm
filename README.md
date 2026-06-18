@@ -1,7 +1,3 @@
-# DCMT: Dialect-Controlled Machine Translation
-
-This repository contains the implementation of the Marian-DCMT framework and the Sasak Multi-Dialect Dataset developed for English-to-Sasak machine translation with multi-dialect outputs.
-
 # Sasak Multi-Dialect Dataset
 
 This research focuses on developing a machine translation system capable of generating translations in multiple Sasak dialects from a single English input. Sasak is a low-resource language spoken in Lombok, Indonesia, and exhibits substantial dialectal variation.
