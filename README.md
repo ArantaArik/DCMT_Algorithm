@@ -8,10 +8,10 @@ This research focuses on developing a machine translation system capable of gene
 
 The dataset includes parallel English–Sasak sentence pairs annotated with five Sasak dialects:
 
-  Kuto-Kute (Pemenang)
-  Ngeno-Ngene (Selaparang)
-  Ngento-Ngente (Suralaga)
-  Meno-Mene (Pejanggik)
-  Mriak-Meriku (Pujut)
+- Kuto-Kute (Pemenang)
+- Ngeno-Ngene (Selaparang)
+- Ngento-Ngente (Suralaga)
+- Meno-Mene (Pejanggik)
+- Mriak-Meriku (Pujut)
 
 The proposed Marian-DCMT model extends the Marian-MT architecture by incorporating dialect-aware conditioning mechanisms, enabling the generation of dialect-specific translations within a unified framework.
